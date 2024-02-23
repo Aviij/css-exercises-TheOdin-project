@@ -1,0 +1,19 @@
+.paragraph {
+    background-color: pink;
+}
+
+.paragraph.one{
+    font-family: 'Verdana','DejaVu Sans', 'sans-serif ';
+    font-size: 24px;
+}
+
+#divOne{
+    color: blue;
+    font-size: 36px;
+}
+
+#divTwo{
+    background-color: rgb(160, 231, 160);
+    font-weight: bold;
+    font-size: 24px;
+}
